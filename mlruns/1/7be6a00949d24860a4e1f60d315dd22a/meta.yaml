@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sijeshp/MSc/SijDev/MLOps_ChurnPred/mlruns/1/7be6a00949d24860a4e1f60d315dd22a/artifacts
+end_time: 1642014617948
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7be6a00949d24860a4e1f60d315dd22a
+run_uuid: 7be6a00949d24860a4e1f60d315dd22a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642014617787
+status: 3
+tags: []
+user_id: sijeshp
